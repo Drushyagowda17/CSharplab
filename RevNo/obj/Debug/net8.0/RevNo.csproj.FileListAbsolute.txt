@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\bin\Debug\net8.0\RevNo.exe
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\bin\Debug\net8.0\RevNo.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\bin\Debug\net8.0\RevNo.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\bin\Debug\net8.0\RevNo.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\bin\Debug\net8.0\RevNo.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\refint\RevNo.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\RevNo.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\RevNo\obj\Debug\net8.0\ref\RevNo.dll
