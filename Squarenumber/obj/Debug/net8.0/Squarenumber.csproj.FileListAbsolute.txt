@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\bin\Debug\net8.0\Squarenumber.exe
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\bin\Debug\net8.0\Squarenumber.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\bin\Debug\net8.0\Squarenumber.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\bin\Debug\net8.0\Squarenumber.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\bin\Debug\net8.0\Squarenumber.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\refint\Squarenumber.dll
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\Squarenumber.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsD\Squarenumber\obj\Debug\net8.0\ref\Squarenumber.dll
