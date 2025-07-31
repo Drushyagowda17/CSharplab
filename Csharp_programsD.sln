@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squarenumber", "Squarenumber\Squarenumber.csproj", "{EEBB7EBB-08AB-4B82-B0D0-57CBA2155D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNZ", "PNZ\PNZ.csproj", "{D554F86B-1ABC-4BBF-9D3D-53FDA9D46FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greet", "Greet\Greet.csproj", "{EAAD4B27-2912-4A9B-87DD-EBE31FBB7C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBB7EBB-08AB-4B82-B0D0-57CBA2155D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBB7EBB-08AB-4B82-B0D0-57CBA2155D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBB7EBB-08AB-4B82-B0D0-57CBA2155D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBB7EBB-08AB-4B82-B0D0-57CBA2155D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D554F86B-1ABC-4BBF-9D3D-53FDA9D46FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D554F86B-1ABC-4BBF-9D3D-53FDA9D46FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D554F86B-1ABC-4BBF-9D3D-53FDA9D46FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D554F86B-1ABC-4BBF-9D3D-53FDA9D46FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAD4B27-2912-4A9B-87DD-EBE31FBB7C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAD4B27-2912-4A9B-87DD-EBE31FBB7C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAD4B27-2912-4A9B-87DD-EBE31FBB7C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAD4B27-2912-4A9B-87DD-EBE31FBB7C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED18800E-EB4D-4A1C-B6A4-C8F0100AFCEC}
+	EndGlobalSection
+EndGlobal
