@@ -1,14 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace DataEncapsulation
 {
-    internal class Program
+    public class Person
     {
-        static void Main(string[] args)
+        private string name;
+        private int age;
+        public string Name
         {
-           Person Person1 = new Person();
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name = value;
 
-            Person1.Name = "dhaiwik";
-            Person1.Age = 25;
-            Console.WriteLine($"Name: {Person1.Name} Age: {Person1.Age}");
+            }
+
+        }
+        public int Age
+        {
+            get
+            {
+                return age;
+            }
+            set
+            {
+                if (value > 0 && value < 100)
+                    age = value;
+                else
+                    Console.WriteLine("Age must be between 0 and 100");
+
+            }
         }
     }
+
 }
