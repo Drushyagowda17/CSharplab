@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\bin\Debug\net8.0\NumOp.exe
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\bin\Debug\net8.0\NumOp.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\bin\Debug\net8.0\NumOp.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\bin\Debug\net8.0\NumOp.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\bin\Debug\net8.0\NumOp.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\refint\NumOp.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\NumOp.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\NumOp\obj\Debug\net8.0\ref\NumOp.dll
