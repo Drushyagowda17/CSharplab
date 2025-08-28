@@ -19,9 +19,13 @@ C. Gulab Jamun : fry dough balls and soak in syrup.
 
 -Create a base class Bank Account with methods to deposit and Withdraw money
 create a derived class Savings Account that adds Interest Calculation Functionality
+
 -Library Management : Create a class Book with title and author fields ,derive a class E-book that adds File size and format properties.
+
 -Vehicles Rental Service : Create a base class Vehicle with model , brand and rental price per day. Create a derived class Car that adds number of seats and fuel type.
+
 -Online Store : Create a class Product which has name and price properties. Create A derived class Electronic Product which has brand and warranty. Smartphone class has OS and Storage capacity. Implement suitable inheritance to display complete product details(m)
+
 -Payment Processing System : Create a Payment class which has amount and date. Create a Credit Card Payment Class with card number and card holder name. Create a UPI Payment with UPI id and Bank name . Implement payment Processing for both methods.(h)
 
 -Write a C# Program to demonstrate the usage of all 6 access specifiers with the following example:
@@ -36,8 +40,11 @@ Create a derived class Savings Account and show which members are accessible.
 Create a non derived class other classes in the same assembly and show which members are accessible.
 In the main method create objects of bank acc ,savings acc and other classes to demonstrate the accessibilities of these members.
 
+
 -Write a C# program to accept two numbers and an operation to be handled(+,-,*,/). Raise Divide by Zero exception if denominator has zero value. Raise Format Exception if user inputs a non numeric value. Use a finally block to display Calculation complete message.
+
 -Write a C# program to read a initial balance of 5000 for a bank account. Ask user for withdrawal amount. Raise a Insufficient Funds Exception if the withdrawal amount is greater than the balance throw custom exception otherwise update and print the new balance.
+
 -Create a simple library system to maintain list of book ids. If user tries to borrow a book that doesn't exist, throw Book Not Found Exception. Handle this with proper message.
 
 -You are designing a simple Student grading system . Each Student must have marks between 0- 100. If a student enters invalid marks , throw a custom exception Invalid Marks Exception :
