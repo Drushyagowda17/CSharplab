@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\bin\Debug\net8.0\BANK2.exe
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\bin\Debug\net8.0\BANK2.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\bin\Debug\net8.0\BANK2.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\bin\Debug\net8.0\BANK2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\bin\Debug\net8.0\BANK2.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\refint\BANK2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\BANK2.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\BANK2\obj\Debug\net8.0\ref\BANK2.dll
