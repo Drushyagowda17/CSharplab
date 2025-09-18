@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\bin\Debug\net8.0\GradeSystem.exe
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\bin\Debug\net8.0\GradeSystem.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\bin\Debug\net8.0\GradeSystem.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\bin\Debug\net8.0\GradeSystem.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\bin\Debug\net8.0\GradeSystem.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\refint\GradeSystem.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\GradeSystem.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\GradeSystem\obj\Debug\net8.0\ref\GradeSystem.dll
