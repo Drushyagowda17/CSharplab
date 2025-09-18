@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.AssemblyInfo.cs
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\bin\Debug\net8.0\LIBRARY2.exe
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\bin\Debug\net8.0\LIBRARY2.deps.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\bin\Debug\net8.0\LIBRARY2.runtimeconfig.json
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\bin\Debug\net8.0\LIBRARY2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\bin\Debug\net8.0\LIBRARY2.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\refint\LIBRARY2.dll
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.pdb
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\LIBRARY2.genruntimeconfig.cache
+C:\Users\Student\Documents\dpython\Csharp_programsDg\LIBRARY2\obj\Debug\net8.0\ref\LIBRARY2.dll
